@@ -6,7 +6,7 @@ This document presents basic Linux terminal commands in two collapsible sections
 ---
 
 <details>
-<summary>🇬🇧 English</summary>
+<summary>En English</summary>
 
 ```
 Basic Linux Terminal Commands	
@@ -415,7 +415,7 @@ curl ifconfig.me      Show your external IP address.
 </details>
 
 <details>
-<summary>🇹🇷 Türkçe</summary>
+<summary>Tr Türkçe</summary>
 
 ```
 Temel Linux Komutları
