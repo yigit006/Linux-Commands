@@ -1,6 +1,7 @@
 # 🐧 Temel Linux Komutları | Basic Linux Commands
 
 Bu döküman, temel Linux terminal komutlarını Türkçe ve İngilizce olarak içeren iki ayrı bölümü katlanabilir şekilde sunar.  
+
 This document presents basic Linux terminal commands in two collapsible sections for Turkish and English.
 
 ---
